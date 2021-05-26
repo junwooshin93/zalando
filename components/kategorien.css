@@ -1,0 +1,16 @@
+.kategorien__title {
+    font-weight: 600;
+    font-size: var(--font-size-3xlarge);
+    margin: 40px 0px;
+}
+
+.kategorien__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kategorien__list div {
+    width: 25%;
+    margin-bottom: 20px;
+    font-size: var(--font-size-medium);
+}

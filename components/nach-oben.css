@@ -1,0 +1,14 @@
+.nach-oben {
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 12px 23px;
+    margin-right: 5px;
+    font-size: var(--font-size-small);
+}
+
+.nach-oben > i {
+    margin-left: 5px;
+}

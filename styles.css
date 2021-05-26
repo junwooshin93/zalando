@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700;800;900&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+@import "menu-bar.css";
+@import "common-css.css";
+
+/* Components */
+@import "components/kategorien.css";
+@import "components/nach-oben.css";
+@import "components/animation.css";
+
+/* Screens */
+@import "screens/info-bar.css";
+@import "screens/main-menu-bar.css";
+@import "screens/main-img.css";
+@import "screens/post.css";
+@import "screens/footer.css";
+
+span,
+div,
+input,
+a {
+    font-family: "Rubik", sans-serif;
+}

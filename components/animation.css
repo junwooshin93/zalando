@@ -1,0 +1,18 @@
+@keyframes searchBarBox {
+    0% {
+    }
+    1% {
+        position: absolute;
+        right: 140px;
+    }
+    100% {
+        background-color: white;
+        border: var(--border-basic);
+        position: absolute;
+        right: 300px;
+        width: 600px;
+        z-index: 1;
+        box-shadow: -80px 5px 10px -8px white;
+        padding: 6px 0px;
+    }
+}

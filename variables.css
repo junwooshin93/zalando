@@ -1,0 +1,25 @@
+:root {
+    --font-size-small: 12px;
+    --font-size-medium: 14px;
+    --font-size-basic: 16px;
+    --font-size-large: 20px;
+    --font-size-xlarge: 24px;
+    --font-size-2xlarge: 28px;
+    --font-size-3xlarge: 32px;
+    --font-size-giant: 40px;
+
+    --font-color-verysmoothgrey: #dfe6e9;
+    --font-color-smoothgrey: #b2bec3;
+    --font-color-grey: #636e72;
+
+    --border-basic: 1px solid #2d3436;
+    --border-basic-b: 2px solid #2d3436;
+    --border-grey: 1px solid #636e72;
+    --border-smooth: 1px solid #b2bec3;
+    --border-weak: 1px solid #dfe6e9;
+
+    --color-basic: #efeff0;
+    --color-deep: #a2a3a8;
+    --color-blue: #0d6dff;
+    --color-deepblue: #3a148b;
+}
