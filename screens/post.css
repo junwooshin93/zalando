@@ -97,6 +97,10 @@
     border-bottom: var(--border-smooth);
 }
 
+.checkbox:hover {
+    background-color: var(--color-basic);
+}
+
 .checkbox > i {
     font-size: var(--font-size-large);
 }
