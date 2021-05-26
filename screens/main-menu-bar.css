@@ -16,12 +16,18 @@
     margin: 0px 5px;
 }
 
-.main-menu__column > span:hover {
+.main-menu__column:first-of-type > span:hover {
     background-color: var(--color-basic);
 }
 
 .main-menu__column > i {
     font-size: var(--font-size-large);
+    cursor: pointer;
+}
+
+.main-menu__column > span,
+.main-menu__column > img {
+    cursor: pointer;
 }
 
 .main-menu__column {
@@ -54,6 +60,7 @@
     font-size: var(--font-size-medium);
     padding: 5px 0px;
     color: var(--font-color-grey);
+    cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
 
